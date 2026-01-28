@@ -32,9 +32,8 @@ You can approach this repository in multiple ways:
 
 ```text
 qa-lead-interview-playbook/
-├─ 01-testing-fundamentals/     # Core testing concepts & principles
-├─ 02-test-planning/            # Strategy, risk-based testing, test plans
-├─ 03-automation/               # Automation architecture & tools
+├─ 01-testing-fundamentals/     # Core testing concepts & principles, Strategy, risk-based testing, test plans
+├─ 02-automation/               # Automation architecture & tools
 │  ├─ selenium-webdriver/
 │  ├─ api-automation/
 │  ├─ performance-testing/
@@ -47,4 +46,3 @@ qa-lead-interview-playbook/
 ├─ 08-interview-prep/           # Interview questions & scenarios
 ├─ assets/                      # Diagrams & visuals
 └─ README.md
-
